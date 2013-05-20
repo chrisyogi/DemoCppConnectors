@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/ecut-module-cpp_collector/!svn/ver/64/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/log/domain
+END
+LogRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/repos/ecut-module-cpp_collector/!svn/ver/64/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/log/domain/LogRecord.java
+END
+LogFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/repos/ecut-module-cpp_collector/!svn/ver/64/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/log/domain/LogFile.java
+END
+LogFileType.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/repos/ecut-module-cpp_collector/!svn/ver/64/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/log/domain/LogFileType.java
+END
+TimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/repos/ecut-module-cpp_collector/!svn/ver/64/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/log/domain/TimeStamp.java
+END
+LogFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/repos/ecut-module-cpp_collector/!svn/ver/64/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/log/domain/LogFiles.java
+END
+LogCreated.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/repos/ecut-module-cpp_collector/!svn/ver/64/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/log/domain/LogCreated.java
+END
+RecordContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/repos/ecut-module-cpp_collector/!svn/ver/64/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/log/domain/RecordContent.java
+END
+LogRecordBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/repos/ecut-module-cpp_collector/!svn/ver/64/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/log/domain/LogRecordBlock.java
+END
+LogInfoRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/repos/ecut-module-cpp_collector/!svn/ver/64/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/log/domain/LogInfoRecord.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/repos/ecut-module-cpp_collector/!svn/ver/64/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/log/domain/Result.java
+END

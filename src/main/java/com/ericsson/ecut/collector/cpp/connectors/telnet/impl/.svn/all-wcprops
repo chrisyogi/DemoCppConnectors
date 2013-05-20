@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/repos/ecut-module-cpp_collector/!svn/ver/133/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/connectors/telnet/impl
+END
+CPPTelnetClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/ecut-module-cpp_collector/!svn/ver/133/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/connectors/telnet/impl/CPPTelnetClient.java
+END
+AbstractTelnetClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/ecut-module-cpp_collector/!svn/ver/133/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/connectors/telnet/impl/AbstractTelnetClient.java
+END

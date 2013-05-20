@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/ecut-module-cpp_collector/!svn/ver/163/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/connectors/ssh
+END
+CPPSSHClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/repos/ecut-module-cpp_collector/!svn/ver/133/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/connectors/ssh/CPPSSHClient.java
+END
+LinuxSSHExecClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/repos/ecut-module-cpp_collector/!svn/ver/163/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/connectors/ssh/LinuxSSHExecClient.java
+END
+LinuxSSHClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/repos/ecut-module-cpp_collector/!svn/ver/133/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/connectors/ssh/LinuxSSHClient.java
+END
+SSHClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/repos/ecut-module-cpp_collector/!svn/ver/162/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/connectors/ssh/SSHClient.java
+END

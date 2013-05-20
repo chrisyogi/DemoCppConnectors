@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/ecut-module-cpp_collector/!svn/ver/64/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/connectors/exception
+END
+TimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/ecut-module-cpp_collector/!svn/ver/64/com.ericsson.ecut.cpp/trunk/src/main/java/com/ericsson/ecut/collector/cpp/connectors/exception/TimeoutException.java
+END
